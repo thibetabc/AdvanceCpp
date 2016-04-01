@@ -25,5 +25,5 @@
  	
 * 如果需要补C语言的课，买一本非常小的K&R的The C Programming Language
 
-* 以上书单来自[百度文库]，感谢原作者！  <http://wenku.baidu.com/link?url=kfR4ipPJmvbCIDnDGxamBiAoLHcddFG0vPtyMlZmWvQKcLEdltEXgi7nH3Vs1-yzdJJnI61ukRJQfGeMcKmwfNVMNJ7zTanS8A43dH-GHl_>
+* 以上书单来自[百度文库](http://wenku.baidu.com/link?url=kfR4ipPJmvbCIDnDGxamBiAoLHcddFG0vPtyMlZmWvQKcLEdltEXgi7nH3Vs1-yzdJJnI61ukRJQfGeMcKmwfNVMNJ7zTanS8A43dH-GHl_)，感谢原作者！  
 	
