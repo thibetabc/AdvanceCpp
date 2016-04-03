@@ -14,16 +14,17 @@
 * 技术运用深层次：
 	* Thinking in C++  作者：Bruce Eckel （候捷 译）
 
-* C++设计习惯
-* Effective C++ 和 More Effective C++  作者：Scott Meyers
+* C++设计习惯：
+	* Effective C++ 和 More Effective C++  作者：Scott Meyers
 	
-* 理论层面的问题，或是想看看实现的代码，难度非常大
+* 理论层面的问题：（或是想看看实现的代码，难度非常大）
  	* Exceptional C++ 和 More Exceptional C++  作者：Herb Sutter
  	
  	
  	
  	
-* 如果需要补C语言的课，买一本非常小的K&R的The C Programming Language
+* 如果需要补C语言的课，买一本非常小的：
+	* K&R的The C Programming Language
 
 * 以上书单来自[百度文库](http://wenku.baidu.com/link?url=kfR4ipPJmvbCIDnDGxamBiAoLHcddFG0vPtyMlZmWvQKcLEdltEXgi7nH3Vs1-yzdJJnI61ukRJQfGeMcKmwfNVMNJ7zTanS8A43dH-GHl_)，感谢原作者！  
 	
